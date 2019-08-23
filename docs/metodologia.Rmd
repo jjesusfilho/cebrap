@@ -43,4 +43,7 @@ Numa fase posterior, a equipe irá criar "tags", os quais utilizados para anotar
 
 Uma vez transformados e classificados, os dados serão serão agregados em novas tabelas contendo frequências e outras estatísticas descritivas, as quais servirão para a produção de gráficos.
 
+A imagem abaixo ilustra o processo descrito acima para os tribunais de justiça. Arquitetura similar será utilizada para as notícias jornalística.
+
+![Arquitetura](../img/cebrap.png)
 
