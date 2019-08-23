@@ -1,0 +1,25 @@
+---
+title: "Procedimento metodológico"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Introdução
+
+A metodologia fará uso de meios para identificar as influências recíprocas entre a imprensa jornalística impressa e digital e o sistema de justiça: papéis compartilhados na superlotação e superpopulação carcerária no Brasil.
+
+Para tanto, os pesquisadores irão coletar, organizar, anotar e analisar notícias jornalísticas que façam referência ao crime e ao sistema de justiça, bem como, julgados de primeiro e segundo grau dos tribunais listados no anexo@.
+
+A pesquisa tem caráter eminentemente exploratório, de modo que. a princípio, não há hipóteses a serem testadas, mas sim questões a serem respondidas durante a análise do material coletado. Isso não implica que, caso alguma hipótese seja levantada durante a fase exploratória, ela não seja incluída no desenho da pesquisa a fim de ser testada.
+
+Todo o processo de coleta, organização e análise dos dados será feito no ambiente de programação *R*, um software livre voltado à pesquisa científica. O trabalho de anotação será realizado por meio do software igualmente livre inception ^[https://inception-project.github.io/]
+
+## Coleta
+
+A imprensa digital e os julgados dos tribunais de justiça, do Supremo Tribunal Federal e do 
+
+
